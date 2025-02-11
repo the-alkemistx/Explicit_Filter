@@ -146,7 +146,7 @@ unban  - to unban a use
 
 ### TELAGRAM SUPPORT 
 
-* [![Explicit OG(Reverser)](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/explicit_og)
+* [![Explicit OG(Reverser)](https://img.shields.io/static/v1?label=Explicit&message=Reverser&color=critical)](https://telegram.me/explicit_og)
 
 
 
